@@ -1,5 +1,5 @@
-# untitled-project
-A work in progress game.
+# Simple-Project
+From ClumzyStudios.
 
 
-Testing GitHub.
+This is the Official Documentation for ClumzyStudios' work in progress, unnamed game.
