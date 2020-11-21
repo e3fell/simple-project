@@ -22,3 +22,11 @@ Cloud Storage Backup = Google Drive
 Simple walking simulator until further notice.
 
 <hr>
+
+<b> Planned Features </b>
+
+* Basic - Advanced movement
+
+* Enemies
+
+* Levels
