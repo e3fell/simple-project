@@ -19,6 +19,8 @@ Cloud Storage Backup = Google Drive
 
 <b> Game Information </b>
 
+E
+
 Simple walking simulator until further notice.
 
 <hr>
