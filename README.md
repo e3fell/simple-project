@@ -9,6 +9,16 @@ The game is going to be a simple walking simulator until the future when it will
 
 <hr>
 
-<b> Game Information </b>
+<b> Project Information </b>
 
 Unity Version = 20.1.14f1
+
+Version Control Software = GitHub
+
+Cloud Storage Backup = Google Drive
+
+<b> Game Information </b>
+
+Simple walking simulator until further notice.
+
+<hr>
