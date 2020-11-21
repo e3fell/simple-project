@@ -11,7 +11,7 @@ The game is going to be a simple walking simulator until the future when it will
 
 <b> Project Information </b>
 
-Unity Version = 20.1.14f1
+Unity Version = 20.1.6f1
 
 Version Control Software = GitHub
 
