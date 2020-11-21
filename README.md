@@ -1,5 +1,5 @@
 # Simple-Project
-From ClumzyStudios.
+<i> From ClumzyStudios. </i>
 
 
 This is the Official Documentation for ClumzyStudios' work in progress, unnamed game.
